@@ -8,4 +8,6 @@ New devices can be seamlessly integrated into the system without modifying exist
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
-![Uploading image.png…]()
+
+<img width="1305" height="665" alt="image" src="https://github.com/user-attachments/assets/ef97bf87-0950-419f-9228-2dee76808418" />
+
